@@ -1,0 +1,28 @@
+name: Fabs.io
+favicon: null
+layout_spectrum: 0.967512822477147
+typography_spectrum: 0.34467889042571187
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3429504281375557
+  lightness: 0.6621929726097733
+  saturation: 0.21435026708059013
+  rhythmicContrast: 0.8232980859465897
+purpose: []
