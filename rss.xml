@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Fabs.io]]></title>
         <description><![CDATA[Fabs.io]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fabs-io/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 09:38:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 21:02:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fabs-io/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Zurich]]></title>
+            <description><![CDATA[<article><h1>Zurich</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/57b5b3b68ff2e995f63fc07673bfb912187a56a0.jpg"></article>]]></description>
+            <link>https://thegrid.ai/fabs-io/zurich/index.html</link>
+            <guid isPermaLink="false">780ce176-1e3e-4e46-981b-147454fa5591</guid>
+            <pubDate>Sun, 03 Jan 2016 21:02:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/109631cf-468b-48b2-a818-893010dd403d.jpg" alt="" title="">]]></description>
-            <link>undefined023879a3-2847-41a9-9a2a-e012df6f944f/index.html</link>
+            <link>https://thegrid.ai/fabs-io/023879a3-2847-41a9-9a2a-e012df6f944f/index.html</link>
             <guid isPermaLink="false">023879a3-2847-41a9-9a2a-e012df6f944f</guid>
             <pubDate>Sat, 26 Dec 2015 09:38:51 GMT</pubDate>
         </item>
